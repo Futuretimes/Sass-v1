@@ -1,0 +1,10 @@
+footer {
+    div {
+        .text__bold {
+            font-weight: bold;
+            &:hover {
+                color: $primaryColor;
+            }
+        }
+    }
+}

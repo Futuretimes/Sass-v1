@@ -1,0 +1,13 @@
+.mt-6 {
+    margin-top: 60px;
+}
+main{
+    div {
+        .card__padding {
+            padding: 10px;
+        }
+        &:hover {
+            color: $primaryColor;
+        }
+    }
+}
